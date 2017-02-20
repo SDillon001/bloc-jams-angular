@@ -5,7 +5,7 @@
 				enabled: true,
 				requireBase: false
 			});
-
+		// determine which view (state) is loaded in the model view
 		$stateProvider
 			.state('landing', {
 				url: '/',
