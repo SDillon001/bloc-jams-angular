@@ -1,7 +1,7 @@
 (function() {
      function CollectionCtrl(Fixtures) {
      	// sets albums to Fixtures.getCollection function and sets the number of albums to repeatin ng-repeat
-     	this.albums = Fixtures.getCollection(12);
+     	this.albums = Fixtures.getCollection(6);
      };
  
      angular

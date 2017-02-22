@@ -39,8 +39,8 @@
 		* @param {Object} song
 		*/
  		var playSong = function(song) {
- 				currentBuzzObject.play();
- 				song.playing = true;
+			currentBuzzObject.play();
+			song.playing = true;
  		};
 
  		/**
@@ -49,8 +49,8 @@
         * @param {Object} song
         */
  		var stopSong = function(song) {
-	 			currentBuzzObject.stop();
-	 			song.playing = null;
+ 			currentBuzzObject.stop();
+ 			song.playing = null;
  		};
 
 		/**
