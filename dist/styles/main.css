@@ -28,7 +28,7 @@ body {
      background-attachment: fixed;
      background-position: center center;
      background-size: cover;
-	font-family: 'Open Sans', 'Helvetica', 'Times New Roman';
+	font-family: 'Raleway', 'Open Sans', 'Helvetica', 'Times New Roman';
 	color: white;
 	min-height: 100%;
 	padding-bottom: 200px;
@@ -67,7 +67,7 @@ body {
 	color: white;
 	font-size: 0.625rem;
 	letter-spacing: 0.05rem;
-	font-weight: 700;
+	font-weight: 300;
 	text-transform: uppercase;
 	text-decoration: none;
 	cursor: pointer;
@@ -85,6 +85,7 @@ body {
 .container {
 	margin: 0 auto;
 	max-width: 64rem;
+	padding: 10px;
 }
 
  .container.narrow {
@@ -107,7 +108,7 @@ body {
 	.column.full { width: 100%; }
 	.column.two-thirds { width: 66.7%; }
 	.column.half { width: 50%; }
-	.column.third { width: 33.3%; }
+	.column.third { width: 35%; }
 	.column.fourth { width: 25%; }
 	.column.flow-opposite { float: right; }
 }
