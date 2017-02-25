@@ -12,7 +12,7 @@
            { title: 'The Four Seasons, Concerto No. 4 in F Minor, RV 297, Op. 8 No. 4 _Winter__ I. Allegro non molto', duration: '203', audioUrl: '/assets/music/Winter-I. Allegro non molto' },
            { title: 'The Four Seasons, Concerto No. 4 in F Minor, RV 297, Op. 8 No. 4 _Winter__ III. Allegro', duration: '216', audioUrl: '/assets/music/Winter-III. Allegro' },
            { title: 'The Four Seasons, Concerto No. 1 in E Major, RV 269, Op. 8, No. 1 _Spring__ III. Allegro pastorale', duration: '222', audioUrl: '/assets/music/Spring-III. Allegro pastorale' },
-           { title: '01 The Four Seasons, Concerto No. 1 in E Major, RV 269, Op. 8, No. 1 _Spring__ I. Allegro', duration: '260', audioUrl: '/assets/music/Spring-I. Allegro' }
+           { title: 'The Four Seasons, Concerto No. 1 in E Major, RV 269, Op. 8, No. 1 _Spring__ I. Allegro', duration: '260', audioUrl: '/assets/music/Spring-I. Allegro' }
            ]
        };
        
