@@ -1,8 +1,5 @@
 # Bloc-Jams Angular Case Study
 
-{:.center}
-[![]({{ site.baseurl }}https://raw.github.com/SDillon001/bloc-jams-angular/master/app/assets/images/case/bloc-jams-angjs-post.png)](#)
-
 ## Project Summary
 ___
 **[Bloc Jams Angular](#)** is a digital music player project application built during the [Bloc Front-End Web Developer](https://www.bloc.io/) course. It is made up of HTML, CSS and Angular JS. For learning purposes, the first version of Bloc Jams was written with vanilla JavaScript, re-factored into jQuery then re-factored with Angular JS for this final version of the application.
