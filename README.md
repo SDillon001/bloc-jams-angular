@@ -1,7 +1,7 @@
 # Bloc-Jams Angular Case Study
 
 {:.center}
-[![]({{ site.baseurl }}/assets/images/case/bloc-jams-angjs-post.png)](#)
+[![]({{ site.baseurl }}https://raw.github.com/SDillon001/bloc-jams-angular/master/app/assets/images/case/bloc-jams-angjs-post.png)](#)
 
 ## Project Summary
 ___
