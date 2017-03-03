@@ -44,6 +44,8 @@
 		 	});
 
 		 	SongPlayer.currentSong = song;
+		 	console.log(currentBuzzObject.getDuration());
+		 	SongPlayer.duration = 100;
 		 };
 
 		 var seek = function(time) {
@@ -92,6 +94,8 @@
 		* @type {Number}
 		*/
 		SongPlayer.currentTime = null;
+
+		SongPlayer.duration = null;
 
 		/**
 		* @desc sets default volume of currently playing song
